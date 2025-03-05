@@ -1,13 +1,11 @@
 # 🌅 Dawn Extension Bot [v1.8]
 
-<div align="center">
-  <img src="./console/images/console.png" alt="Dawn Extension Bot Console" width="600"/>
   
   <p align="center">
-    <a href="https://t.me/JamBitPY">
+    <a href="https://t.me/forestarmy">
       <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
     </a>
-    <a href="https://t.me/+-4HDHSdBgiYxNGRi">
+    <a href="https://t.me/forestarmy">
       <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram Chat">
     </a>
   </p>
@@ -55,7 +53,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/itsmesatyavir/DawnReff
    ```
 
 2. **Set Up Virtual Environment**
