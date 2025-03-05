@@ -40,7 +40,7 @@ class Console:
     def show_dev_info(self):
         os.system("cls" if os.name == "nt" else "clear")
 
-        title = text2art("JamBit", font="small")
+        title = text2art("D A W N", font="small")
         styled_title = Text(title, style="bold cyan")
 
         version = Text("VERSION: 1.8", style="blue")
