@@ -44,15 +44,15 @@ class Console:
         styled_title = Text(title, style="bold cyan")
 
         version = Text("VERSION: 1.8", style="blue")
-        telegram = Text("Channel: https://t.me/JamBitPY", style="green")
-        github = Text("GitHub: https://github.com/Jaammerr", style="green")
+        telegram = Text("Channel: https://t.me/forestarmy", style="green")
+        github = Text("GitHub: https://github.com/itsmesatyavir", style="green")
 
         dev_panel = Panel(
             Text.assemble(styled_title, "\n", version, "\n", telegram, "\n", github),
             border_style="yellow",
             expand=False,
             title="[bold green]Welcome[/bold green]",
-            subtitle="[italic]Powered by Jammer[/italic]",
+            subtitle="[italic] Thank You Jammer[/italic]",
         )
 
         self.rich_console.print(dev_panel)
